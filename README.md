@@ -31,11 +31,4 @@ order-book/
 └── README.md
 ```
 
-## Build and run
-
-You need a C++17 compiler. From the project folder:
-
-```bash
-clang++ -std=c++17 -O2 -Iinclude src/main.cpp -o orderbook
-./orderbook
 ```
