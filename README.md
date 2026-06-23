@@ -31,4 +31,3 @@ order-book/
 └── README.md
 ```
 
-```
